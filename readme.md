@@ -1,4 +1,4 @@
-# Android Network Tools ![image](./app/src/main/res/mipmap-xhdpi/ic_launcher.png)
+# Android Network Tools ![image](https://github.com/stealthcopter/AndroidNetworkTools/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png)
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidNetworkTools-green.svg?style=true)](https://android-arsenal.com/details/1/3112)
 [![CircleCI](https://circleci.com/gh/stealthcopter/AndroidNetworkTools.svg?style=svg)](https://circleci.com/gh/stealthcopter/AndroidNetworkTools)
