@@ -1,7 +1,7 @@
 # Android Network Tools ![image](https://github.com/stealthcopter/AndroidNetworkTools/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png)
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidNetworkTools-green.svg?style=true)](https://android-arsenal.com/details/1/3112)
-[![CircleCI](https://circleci.com/gh/stealthcopter/AndroidNetworkTools.svg?style=svg)](https://circleci.com/gh/stealthcopter/AndroidNetworkTools)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidNetworkTools-green.svg?style=true)](https://github.com/amir067)
+[![CircleCI](https://circleci.com/gh/stealthcopter/AndroidNetworkTools.svg?style=svg)](https://github.com/amir067)
 
 Disappointed by the lack of good network apis in android / java I developed a collection of handy networking tools for everyday android development.
 
